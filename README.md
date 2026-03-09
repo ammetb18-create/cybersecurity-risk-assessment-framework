@@ -39,3 +39,9 @@ This assessment follows cybersecurity risk management concepts aligned with:
 
 America del Carmen Trujillo Bonilla  
 Cybersecurity & Legal Tech Graduate Student
+
+## Project Files
+
+- Risk Assessment Report: cybersecurity-risk-assessment-report.pdf
+- Project Summary: project-summary.md
+- Risk Matrix Methodology: docs/risk-matrix-notes.md
